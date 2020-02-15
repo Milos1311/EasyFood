@@ -1,1 +1,1 @@
-EasyFoot
+EasyFood
